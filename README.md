@@ -12,4 +12,5 @@ An interactive financial planning and forecasting tool developed in Microsoft Ex
 * **Data Visualization:** Consolidates key financial metrics into KPI cards and charts that automatically update as assumptions are adjusted
 
 ## Project Files
-* [View Dashboard Preview](https://1drv.ms/x/c/8dad25539c55bd1a/IQAw9tR1Xk6wQa54kpjJcYyEAY1zrJ1cqThTqMuxrlAIyzs?e=DkNf4o)
+* [View Dashboard](https://1drv.ms/x/c/8dad25539c55bd1a/IQAw9tR1Xk6wQa54kpjJcYyEAY1zrJ1cqThTqMuxrlAIyzs?e=DkNf4o)
+* [View Dashboard Video Walkthrough](https://drive.google.com/file/d/1sefMl34oun4uuoWb4UHDagXaZVj6BXbc/view?usp=sharing)
