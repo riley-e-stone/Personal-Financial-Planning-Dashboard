@@ -1,6 +1,6 @@
 # Personal Financial Planning Dashboard
 
-An interactive financial planning and forecasting tool developed in Microsoft Excel using advanced formulas and VBA automation.
+An interactive financial planning and forecasting tool developed in Microsoft Excel using advanced formulas and VBA automation
 
 ## Dashboard Preview
 <img width="2654" height="1210" alt="image" src="https://github.com/user-attachments/assets/434be882-5d5b-43d5-8aa1-e2ac62990e89" />
