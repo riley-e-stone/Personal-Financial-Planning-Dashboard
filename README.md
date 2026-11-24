@@ -7,7 +7,7 @@ An interactive financial planning and forecasting tool developed in Microsoft Ex
 
 ## Key Features
 * **Financial Forecasting:** Projects income, expenses, investment contributions, and portfolio growth over time
-* **Customizable Assumptions:** Allows users to adjust salary, expenses, savings allocations, investment returns, and wealth goals
+* **Customizable Assumptions:** Allows users to adjust salary, expenses, savings allocations, and wealth goals
 * **Interactive Dashboard:** Uses VBA to automate input adjustments and provide an interactive wealth-tracking timeline
 * **Data Visualization:** Consolidates key financial metrics into KPI cards and charts that automatically update as assumptions are adjusted
 
